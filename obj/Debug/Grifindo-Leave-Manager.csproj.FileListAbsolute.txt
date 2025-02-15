@@ -1,0 +1,16 @@
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\bin\Debug\Grifindo-Leave-Manager.exe.config
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\bin\Debug\Grifindo-Leave-Manager.exe
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\bin\Debug\Grifindo-Leave-Manager.pdb
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo-Leave-Manager.csproj.AssemblyReference.cache
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo_Leave_Manager.LoginForm.resources
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo_Leave_Manager.Properties.Resources.resources
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo-Leave-Manager.csproj.GenerateResource.cache
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo-Leave-Manager.csproj.CoreCompileInputs.cache
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo-Leave-Manager.exe
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo-Leave-Manager.pdb
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo_Leave_Manager.view.AdminDashboardForm.resources
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo_Leave_Manager.view.EmployeeDashboardForm.resources
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\bin\Debug\Grifindo-Leave-Manager.exe.manifest
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\bin\Debug\Grifindo-Leave-Manager.application
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo-Leave-Manager.exe.manifest
+C:\Users\senuk\source\repos\Grifindo-Leave-Manager\Grifindo-Leave-Manager\obj\Debug\Grifindo-Leave-Manager.application
